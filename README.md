@@ -223,3 +223,5 @@ Similarly, `on?` isn't your standard reader. It reads from a different variable 
 
 * [ZetCode](http://zetcode.com/) - [Object-oriented programming in Ruby](http://zetcode.com/lang/rubytutorial/oop/) 
 * [ZetCode](http://zetcode.com/) - [Object-oriented programming II in Ruby](http://zetcode.com/lang/rubytutorial/oop2/)
+
+<a href='https://learn.co/lessons/object-attributes-tutorial' data-visibility='hidden'>View this lesson on Learn.co</a>
